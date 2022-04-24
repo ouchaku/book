@@ -1,0 +1,6 @@
+node_modules/
+_book
+*.sh
+package.json
+package-lock.json
+*.*~
