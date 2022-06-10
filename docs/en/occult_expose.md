@@ -6,7 +6,7 @@
 
 ----
 
-<dev>
+<div>
 <pre>
 
 <h3>前置き</h3>
@@ -103,5 +103,5 @@ The Dark Occult, Agendas of Non-Human Entities, Natural Law and More | Mark Pass
 (2021-11-07)
 
 </pre>
-</dev>
+</div>
 

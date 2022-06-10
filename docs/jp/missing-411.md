@@ -6,7 +6,7 @@
 
 ----
 
-<dev>
+<div>
 <pre>
 
 <h3>前置き</h3>
@@ -74,4 +74,4 @@ ref: <a href="http://news21c.blog.fc2.com/blog-entry-18807.html" target="_blank"
 
 (2022-02-10)
 </pre>
-</dev>
+</div>
