@@ -7,6 +7,8 @@
     "honkit": "^3.7.1"
   },
   "devDependencies": {
+    "gitbook-plugin-collapsible-chapters": "^0.1.8",
+    "gitbook-plugin-collapsible-menu-rmp": "^1.0.1",
     "gitbook-plugin-hide-published-with": "0.0.1"
   },
   "scripts": {
