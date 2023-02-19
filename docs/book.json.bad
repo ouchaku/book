@@ -1,5 +1,8 @@
 {
     "description": "新規に作成するときに流用するHonkit のテンプレート",
     "author": "Ouchaku Mono",
-    "plugins":["collapsible-chapters", "hide-published-with"]
+    "plugins":["collapsible-chapters", "hide-published-with"],
+    "styles":{
+      "website": "./styles/my_div.css"
+    }
 }
