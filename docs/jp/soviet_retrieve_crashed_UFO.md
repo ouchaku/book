@@ -131,6 +131,7 @@ ref: <a href="http://boris-shurinov.info/uftnt/tnt2.htm" target="_blank">http://
 <blockquote>
  It is known that the winter in Ural is very cold. The cars we see are in summer version, without hood or canvas cover. Why? Because,  for the film-hoax,  it was necessary to show soldiers sitting in these cars. In reality, and especially  in the Army, it is not possible.
 
+<br>
 ref: <a href="http://boris-shurinov.info/uftnt/tnt2.htm" target="_blank">http://boris-shurinov.info/uftnt/tnt2.htm</a>
 </blockquote>
 
