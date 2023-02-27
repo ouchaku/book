@@ -1,7 +1,7 @@
 # 1969-03, ソビエト： UFO 墜落現場と異星人解剖シーンの動画（全体＋追加）
 
 
-<img  height="200" src="../img/20130721_kremlin3.jpg"/>
+<img  width="70%" src="../img/20130721_kremlin3.jpg"/>
 
 <hr style="height:10px;border-width:3;color:orange;background-color:blue">
 
@@ -78,7 +78,7 @@
 <blockquote>
 There are also several documents shown to verify the event itself, and an eyewitness to the event who swears that the recovery mission did occur. The footage of the autopsy film shows personnel without caps and gowns, which seemed odd to me at first, but after some research I found that this was commonplace for that era in Russia.
 
-<br>
+<br><br>
 ref: <a href="http://www.thinkaboutitdocs.com/1968-russian-ufo-crash-and-recovery/" target="_blank">http://www.thinkaboutitdocs.com/1968-russian-ufo-crash-and-recovery/</a>
 </blockquote>
 
@@ -88,7 +88,7 @@ ref: <a href="http://www.thinkaboutitdocs.com/1968-russian-ufo-crash-and-recover
 <blockquote>
 The alien’s torso and arm are lying together on the table as the autopsy is performed, and there are documents shown to support the autopsy.
 
-<br>
+<br><br>
 ref: <a href="http://www.thinkaboutitdocs.com/1968-russian-ufo-crash-and-recovery/" target="_blank">http://www.thinkaboutitdocs.com/1968-russian-ufo-crash-and-recovery/</a>
 </blockquote>
 
@@ -105,14 +105,14 @@ ref: <a href="http://www.thinkaboutitdocs.com/1968-russian-ufo-crash-and-recover
 
 - 1968年11月27日に Sverdlovsk（地名） の大勢の住民たちが UFO（複数）と爆発を目撃した。翌 1969年の春に Berezovsky（地名）の農民たちが 奇妙な円盤を発見し、 KGB に連絡した。KGB のカメラマンが現場と作業中の部隊を撮影した。その後、乗員だった異星人の解剖がモスクワで行われた。だが、 V.Vereschagin の書いたその本を見た人は誰もいない。本の表紙も一般的な出版物のそれとは違っている。ロシアでは Vereschagin という名前はありふれているが、UFO の分野ではそのような名前の人物は誰も知られていない。この番組で紹介された本は存在していないのだ。
 
-<blockquote>
+<blockquote><pre>
 The story begins by the book "UFOs in the USSR" (in Russian). 
      The author is introduced as V.Vereschagin,  whom no one  in the Russian UFO field  had ever heard of. 
      According to this unknown Vereschagin-ibn-TNT's  book UFOs in the USSR , many residents of the Sverdlovsk region had seen UFOs  and an explosion on November 27, 1968. The event was published in the Sverdlovsk newspaper. In the spring of 1969,  farmers in the area of Berezovsky found  strange disc and  contacted  the KGB.  KGB cameramen  filmed  the  site  and  the  troops' activity, and, later, im Moscow, the autopsy of an alien occupant.
 Nobody has been able to even locate a copy of Vereschagin's alleged book, UFOs in the USSR,  in which the story of the crash  is supposedly told.  What we see  is just a jacket.  By the way, this jacket is not typical for our publishers.
      In Russia, there are many Vereschagin  but nobody knows  this one  in connection with the ufology. You can be sure, dear UpDates, that we know every book published in Russia and in Russian, and every person writing serious ufological books. This book does not exist.
-
-<br>
+</pre>
+<br><br>
 ref: <a href="http://boris-shurinov.info/uftnt/tnt2.htm" target="_blank">http://boris-shurinov.info/uftnt/tnt2.htm</a>
 </blockquote>
 
@@ -131,7 +131,7 @@ ref: <a href="http://boris-shurinov.info/uftnt/tnt2.htm" target="_blank">http://
 <blockquote>
  It is known that the winter in Ural is very cold. The cars we see are in summer version, without hood or canvas cover. Why? Because,  for the film-hoax,  it was necessary to show soldiers sitting in these cars. In reality, and especially  in the Army, it is not possible.
 
-<br>
+<br><br>
 ref: <a href="http://boris-shurinov.info/uftnt/tnt2.htm" target="_blank">http://boris-shurinov.info/uftnt/tnt2.htm</a>
 </blockquote>
 
